@@ -1,0 +1,37 @@
+{
+  "files": [
+    "family-life.json"
+  ],
+  "planned": [
+    {
+      "id": "travel",
+      "name": "Travel",
+      "level": "A2",
+      "blurb": "Stations, tickets, and asking the way."
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "level": "A2",
+      "blurb": "The pharmacy, the doctor, and how you feel."
+    },
+    {
+      "id": "work",
+      "name": "Work",
+      "level": "A2–B1",
+      "blurb": "A job, a meeting, a simple plan."
+    },
+    {
+      "id": "civic-life",
+      "name": "French civic life",
+      "level": "B1",
+      "blurb": "The mairie, papers, and everyday administration."
+    },
+    {
+      "id": "b2-core",
+      "name": "B2 vocabulary",
+      "level": "B2",
+      "blurb": "The words that carry a nationality interview."
+    }
+  ]
+}

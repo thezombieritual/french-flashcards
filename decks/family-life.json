@@ -1,0 +1,1710 @@
+{
+  "id": "family-life",
+  "name": "Family life",
+  "description": "Greetings, family, the house, meals, time, and the verbs you need with the people you live with.",
+  "level": "A1",
+  "language": "fr",
+  "cards": [
+    {
+      "id": "greet-bonjour",
+      "topic": "greetings",
+      "article": null,
+      "french": "Bonjour",
+      "english": "Hello / good morning",
+      "example": "Bonjour, Paul.",
+      "exampleEn": "Hello, Paul.",
+      "icon": "twemoji/1f44b.svg"
+    },
+    {
+      "id": "greet-bonsoir",
+      "topic": "greetings",
+      "article": null,
+      "french": "Bonsoir",
+      "english": "Good evening",
+      "example": "Bonsoir, madame.",
+      "exampleEn": "Good evening, madam.",
+      "icon": "twemoji/1f307.svg"
+    },
+    {
+      "id": "greet-bonne-nuit",
+      "topic": "greetings",
+      "article": null,
+      "french": "Bonne nuit",
+      "english": "Good night",
+      "example": "Bonne nuit, dors bien.",
+      "exampleEn": "Good night, sleep well.",
+      "icon": "twemoji/1f319.svg"
+    },
+    {
+      "id": "greet-salut",
+      "topic": "greetings",
+      "article": null,
+      "french": "Salut",
+      "english": "Hi / bye (informal)",
+      "example": "Salut, ça va ?",
+      "exampleEn": "Hi, how are you?",
+      "icon": "twemoji/270c.svg",
+      "note": "Fine with your wife and with friends."
+    },
+    {
+      "id": "greet-au-revoir",
+      "topic": "greetings",
+      "article": null,
+      "french": "Au revoir",
+      "english": "Goodbye",
+      "example": "Au revoir, à demain.",
+      "exampleEn": "Goodbye, see you tomorrow.",
+      "icon": "twemoji/1f6aa.svg"
+    },
+    {
+      "id": "greet-a-bientot",
+      "topic": "greetings",
+      "article": null,
+      "french": "À bientôt",
+      "english": "See you soon",
+      "example": "À bientôt !",
+      "exampleEn": "See you soon!",
+      "icon": "twemoji/23f3.svg"
+    },
+    {
+      "id": "greet-a-demain",
+      "topic": "greetings",
+      "article": null,
+      "french": "À demain",
+      "english": "See you tomorrow",
+      "example": "À demain, Paul.",
+      "exampleEn": "See you tomorrow, Paul.",
+      "icon": "twemoji/1f4c6.svg"
+    },
+    {
+      "id": "greet-a-tout-a-lheure",
+      "topic": "greetings",
+      "article": null,
+      "french": "À tout à l'heure",
+      "english": "See you later today",
+      "example": "À tout à l'heure, je rentre.",
+      "exampleEn": "See you later, I am coming home.",
+      "icon": "twemoji/1f552.svg"
+    },
+    {
+      "id": "greet-merci",
+      "topic": "greetings",
+      "article": null,
+      "french": "Merci",
+      "english": "Thank you",
+      "example": "Merci beaucoup.",
+      "exampleEn": "Thank you very much.",
+      "icon": "twemoji/1f64f.svg"
+    },
+    {
+      "id": "greet-merci-beaucoup",
+      "topic": "greetings",
+      "article": null,
+      "french": "Merci beaucoup",
+      "english": "Thank you very much",
+      "example": "Merci beaucoup pour le café.",
+      "exampleEn": "Thank you very much for the coffee.",
+      "icon": "twemoji/1f381.svg"
+    },
+    {
+      "id": "greet-svp",
+      "topic": "greetings",
+      "article": null,
+      "french": "S'il vous plaît",
+      "english": "Please (formal)",
+      "example": "Un café, s'il vous plaît.",
+      "exampleEn": "A coffee, please.",
+      "icon": "twemoji/1f454.svg",
+      "note": "Use this with people you don't know, and with your wife's family until they invite « tu »."
+    },
+    {
+      "id": "greet-stp",
+      "topic": "greetings",
+      "article": null,
+      "french": "S'il te plaît",
+      "english": "Please (informal)",
+      "example": "De l'eau, s'il te plaît.",
+      "exampleEn": "Some water, please.",
+      "icon": "twemoji/1f917.svg",
+      "note": "Fine with your wife and with friends."
+    },
+    {
+      "id": "greet-pardon",
+      "topic": "greetings",
+      "article": null,
+      "french": "Pardon",
+      "english": "Sorry / excuse me",
+      "example": "Pardon, je ne comprends pas.",
+      "exampleEn": "Sorry, I don't understand.",
+      "icon": "twemoji/1f647.svg"
+    },
+    {
+      "id": "greet-excusez-moi",
+      "topic": "greetings",
+      "article": null,
+      "french": "Excusez-moi",
+      "english": "Excuse me (formal)",
+      "example": "Excusez-moi, où sont les toilettes ?",
+      "exampleEn": "Excuse me, where is the toilet?",
+      "icon": "twemoji/1f64b.svg"
+    },
+    {
+      "id": "greet-de-rien",
+      "topic": "greetings",
+      "article": null,
+      "french": "De rien",
+      "english": "You're welcome",
+      "example": "Merci. — De rien.",
+      "exampleEn": "Thank you. — You're welcome.",
+      "icon": "twemoji/1f60a.svg"
+    },
+    {
+      "id": "greet-oui",
+      "topic": "greetings",
+      "article": null,
+      "french": "Oui",
+      "english": "Yes",
+      "example": "Oui, ça va bien.",
+      "exampleEn": "Yes, I'm fine.",
+      "icon": "twemoji/2705.svg"
+    },
+    {
+      "id": "greet-non",
+      "topic": "greetings",
+      "article": null,
+      "french": "Non",
+      "english": "No",
+      "example": "Non, merci.",
+      "exampleEn": "No, thank you.",
+      "icon": "twemoji/274c.svg"
+    },
+    {
+      "id": "greet-comment-allez-vous",
+      "topic": "greetings",
+      "article": null,
+      "french": "Comment allez-vous ?",
+      "english": "How are you? (formal)",
+      "example": "Bonjour, comment allez-vous ?",
+      "exampleEn": "Hello, how are you?",
+      "icon": "twemoji/1f4ac.svg",
+      "note": "The formal question. With your wife, « Ça va ? » is enough."
+    },
+    {
+      "id": "greet-ca-va",
+      "topic": "greetings",
+      "article": null,
+      "french": "Ça va ?",
+      "english": "How's it going?",
+      "example": "Salut, ça va ?",
+      "exampleEn": "Hi, how's it going?",
+      "icon": "twemoji/1f44d.svg"
+    },
+    {
+      "id": "greet-ca-va-bien",
+      "topic": "greetings",
+      "article": null,
+      "french": "Ça va bien",
+      "english": "I'm fine",
+      "example": "Ça va bien, merci.",
+      "exampleEn": "I'm fine, thank you.",
+      "icon": "twemoji/1f60a.svg"
+    },
+    {
+      "id": "greet-enchante",
+      "topic": "greetings",
+      "article": null,
+      "french": "Enchanté",
+      "english": "Nice to meet you",
+      "example": "Enchanté, je m'appelle Paul.",
+      "exampleEn": "Nice to meet you, my name is Paul.",
+      "icon": "twemoji/1f91d.svg",
+      "note": "Said by a man. A woman says « enchantée »."
+    },
+    {
+      "id": "greet-bienvenue",
+      "topic": "greetings",
+      "article": null,
+      "french": "Bienvenue",
+      "english": "Welcome",
+      "example": "Bienvenue à la maison.",
+      "exampleEn": "Welcome home.",
+      "icon": "twemoji/1f3e0.svg"
+    },
+    {
+      "id": "greet-bonne-journee",
+      "topic": "greetings",
+      "article": null,
+      "french": "Bonne journée",
+      "english": "Have a good day",
+      "example": "Merci, bonne journée.",
+      "exampleEn": "Thank you, have a good day.",
+      "icon": "twemoji/2600.svg"
+    },
+    {
+      "id": "greet-bon-appetit",
+      "topic": "greetings",
+      "article": null,
+      "french": "Bon appétit",
+      "english": "Enjoy your meal",
+      "example": "Bon appétit !",
+      "exampleEn": "Enjoy your meal!",
+      "icon": "twemoji/1f374.svg"
+    },
+    {
+      "id": "greet-monsieur",
+      "topic": "greetings",
+      "article": null,
+      "french": "Monsieur",
+      "english": "Sir / Mr",
+      "example": "Bonjour, monsieur.",
+      "exampleEn": "Hello, sir.",
+      "icon": "twemoji/1f468.svg"
+    },
+    {
+      "id": "greet-madame",
+      "topic": "greetings",
+      "article": null,
+      "french": "Madame",
+      "english": "Madam / Mrs",
+      "example": "Bonjour, madame.",
+      "exampleEn": "Hello, madam.",
+      "icon": "twemoji/1f469.svg"
+    },
+    {
+      "id": "people-je-mappelle",
+      "topic": "people",
+      "article": null,
+      "french": "Je m'appelle…",
+      "english": "My name is…",
+      "example": "Je m'appelle Paul.",
+      "exampleEn": "My name is Paul.",
+      "icon": "twemoji/1f4db.svg"
+    },
+    {
+      "id": "people-tu-tappelles",
+      "topic": "people",
+      "article": null,
+      "french": "Comment tu t'appelles ?",
+      "english": "What's your name? (informal)",
+      "example": "Comment tu t'appelles ?",
+      "exampleEn": "What's your name?",
+      "icon": "twemoji/2753.svg"
+    },
+    {
+      "id": "people-vous-appelez",
+      "topic": "people",
+      "article": null,
+      "french": "Comment vous appelez-vous ?",
+      "english": "What's your name? (formal)",
+      "example": "Comment vous appelez-vous ?",
+      "exampleEn": "What's your name?",
+      "icon": "twemoji/1f4ac.svg"
+    },
+    {
+      "id": "people-anglais",
+      "topic": "people",
+      "article": null,
+      "french": "Je suis anglais",
+      "english": "I am English",
+      "example": "Je suis anglais.",
+      "exampleEn": "I am English.",
+      "icon": "twemoji/1f1ec-1f1e7.svg",
+      "note": "Said by a man. A woman says « je suis anglaise »."
+    },
+    {
+      "id": "people-un-peu",
+      "topic": "people",
+      "article": null,
+      "french": "Je parle un peu français",
+      "english": "I speak a little French",
+      "example": "Je parle un peu français.",
+      "exampleEn": "I speak a little French.",
+      "icon": "twemoji/1f1eb-1f1f7.svg"
+    },
+    {
+      "id": "people-comprends-pas",
+      "topic": "people",
+      "article": null,
+      "french": "Je ne comprends pas",
+      "english": "I don't understand",
+      "example": "Pardon, je ne comprends pas.",
+      "exampleEn": "Sorry, I don't understand.",
+      "icon": "twemoji/1f937.svg"
+    },
+    {
+      "id": "people-sais-pas",
+      "topic": "people",
+      "article": null,
+      "french": "Je ne sais pas",
+      "english": "I don't know",
+      "example": "Je ne sais pas.",
+      "exampleEn": "I don't know.",
+      "icon": "twemoji/1f914.svg"
+    },
+    {
+      "id": "people-repeter",
+      "topic": "people",
+      "article": null,
+      "french": "Pouvez-vous répéter ?",
+      "english": "Can you repeat that?",
+      "example": "Pouvez-vous répéter, s'il vous plaît ?",
+      "exampleEn": "Can you repeat that, please?",
+      "icon": "twemoji/1f501.svg"
+    },
+    {
+      "id": "people-lentement",
+      "topic": "people",
+      "article": null,
+      "french": "Parlez plus lentement",
+      "english": "Speak more slowly",
+      "example": "Parlez plus lentement, s'il vous plaît.",
+      "exampleEn": "Speak more slowly, please.",
+      "icon": "twemoji/1f422.svg"
+    },
+    {
+      "id": "people-ami",
+      "topic": "people",
+      "article": "l'",
+      "french": "ami",
+      "english": "friend (man)",
+      "example": "C'est un ami.",
+      "exampleEn": "He's a friend.",
+      "icon": "twemoji/1f9d1.svg"
+    },
+    {
+      "id": "people-amie",
+      "topic": "people",
+      "article": "l'",
+      "french": "amie",
+      "english": "friend (woman)",
+      "example": "C'est une amie.",
+      "exampleEn": "She's a friend.",
+      "icon": "twemoji/1f469.svg"
+    },
+    {
+      "id": "family-famille",
+      "topic": "family",
+      "article": "la",
+      "french": "famille",
+      "english": "family",
+      "example": "Ma famille est en Angleterre.",
+      "exampleEn": "My family is in England.",
+      "icon": "twemoji/1f46a.svg"
+    },
+    {
+      "id": "family-femme",
+      "topic": "family",
+      "article": "la",
+      "french": "femme",
+      "english": "wife; woman",
+      "example": "Ma femme est française.",
+      "exampleEn": "My wife is French.",
+      "icon": "twemoji/1f491.svg"
+    },
+    {
+      "id": "family-mari",
+      "topic": "family",
+      "article": "le",
+      "french": "mari",
+      "english": "husband",
+      "example": "Son mari arrive ce soir.",
+      "exampleEn": "Her husband arrives this evening.",
+      "icon": "twemoji/1f468.svg"
+    },
+    {
+      "id": "family-mere",
+      "topic": "family",
+      "article": "la",
+      "french": "mère",
+      "english": "mother",
+      "example": "Maman est dans la cuisine.",
+      "exampleEn": "Mum is in the kitchen.",
+      "icon": "twemoji/1f469.svg"
+    },
+    {
+      "id": "family-pere",
+      "topic": "family",
+      "article": "le",
+      "french": "père",
+      "english": "father",
+      "example": "Papa fait le café.",
+      "exampleEn": "Dad is making the coffee.",
+      "icon": "twemoji/1f468.svg"
+    },
+    {
+      "id": "family-parents",
+      "topic": "family",
+      "article": "les",
+      "french": "parents",
+      "english": "parents",
+      "example": "Mes parents habitent en Angleterre.",
+      "exampleEn": "My parents live in England.",
+      "icon": "twemoji/1f46b.svg"
+    },
+    {
+      "id": "family-enfant",
+      "topic": "family",
+      "article": "l'",
+      "french": "enfant",
+      "english": "child",
+      "example": "L'enfant dort.",
+      "exampleEn": "The child is sleeping.",
+      "icon": "twemoji/1f9d2.svg"
+    },
+    {
+      "id": "family-enfants",
+      "topic": "family",
+      "article": "les",
+      "french": "enfants",
+      "english": "children",
+      "example": "Les enfants sont à la maison.",
+      "exampleEn": "The children are at home.",
+      "icon": "twemoji/1f466.svg"
+    },
+    {
+      "id": "family-fils",
+      "topic": "family",
+      "article": "le",
+      "french": "fils",
+      "english": "son",
+      "example": "Leur fils a dix ans.",
+      "exampleEn": "Their son is ten.",
+      "icon": "twemoji/1f466.svg"
+    },
+    {
+      "id": "family-fille",
+      "topic": "family",
+      "article": "la",
+      "french": "fille",
+      "english": "daughter; girl",
+      "example": "Ma fille aime le gâteau.",
+      "exampleEn": "My daughter likes cake.",
+      "icon": "twemoji/1f467.svg"
+    },
+    {
+      "id": "family-bebe",
+      "topic": "family",
+      "article": "le",
+      "french": "bébé",
+      "english": "baby",
+      "example": "Le bébé dort.",
+      "exampleEn": "The baby is sleeping.",
+      "icon": "twemoji/1f476.svg"
+    },
+    {
+      "id": "family-frere",
+      "topic": "family",
+      "article": "le",
+      "french": "frère",
+      "english": "brother",
+      "example": "J'ai un frère.",
+      "exampleEn": "I have a brother.",
+      "icon": "twemoji/1f466.svg"
+    },
+    {
+      "id": "family-soeur",
+      "topic": "family",
+      "article": "la",
+      "french": "sœur",
+      "english": "sister",
+      "example": "Ma sœur habite ici.",
+      "exampleEn": "My sister lives here.",
+      "icon": "twemoji/1f467.svg"
+    },
+    {
+      "id": "family-grand-mere",
+      "topic": "family",
+      "article": "la",
+      "french": "grand-mère",
+      "english": "grandmother",
+      "example": "Grand-mère fait la soupe.",
+      "exampleEn": "Grandma is making the soup.",
+      "icon": "twemoji/1f475.svg"
+    },
+    {
+      "id": "family-grand-pere",
+      "topic": "family",
+      "article": "le",
+      "french": "grand-père",
+      "english": "grandfather",
+      "example": "Grand-père est dans le jardin.",
+      "exampleEn": "Grandpa is in the garden.",
+      "icon": "twemoji/1f474.svg"
+    },
+    {
+      "id": "family-grands-parents",
+      "topic": "family",
+      "article": "les",
+      "french": "grands-parents",
+      "english": "grandparents",
+      "example": "Les grands-parents arrivent dimanche.",
+      "exampleEn": "The grandparents arrive on Sunday.",
+      "icon": "twemoji/1f9d3.svg"
+    },
+    {
+      "id": "family-oncle",
+      "topic": "family",
+      "article": "l'",
+      "french": "oncle",
+      "english": "uncle",
+      "example": "L'oncle est dans le salon.",
+      "exampleEn": "Uncle is in the living room.",
+      "icon": "twemoji/1f468.svg"
+    },
+    {
+      "id": "family-tante",
+      "topic": "family",
+      "article": "la",
+      "french": "tante",
+      "english": "aunt",
+      "example": "Ma tante aime le fromage.",
+      "exampleEn": "My aunt likes cheese.",
+      "icon": "twemoji/1f469.svg"
+    },
+    {
+      "id": "family-cousin",
+      "topic": "family",
+      "article": "le",
+      "french": "cousin",
+      "english": "cousin (man)",
+      "example": "Mon cousin parle anglais.",
+      "exampleEn": "My cousin speaks English.",
+      "icon": "twemoji/1f9d1.svg"
+    },
+    {
+      "id": "family-cousine",
+      "topic": "family",
+      "article": "la",
+      "french": "cousine",
+      "english": "cousin (woman)",
+      "example": "Ma cousine habite à Paris.",
+      "exampleEn": "My cousin lives in Paris.",
+      "icon": "twemoji/1f469.svg"
+    },
+    {
+      "id": "family-neveu",
+      "topic": "family",
+      "article": "le",
+      "french": "neveu",
+      "english": "nephew",
+      "example": "Son neveu a cinq ans.",
+      "exampleEn": "His nephew is five.",
+      "icon": "twemoji/1f466.svg"
+    },
+    {
+      "id": "family-niece",
+      "topic": "family",
+      "article": "la",
+      "french": "nièce",
+      "english": "niece",
+      "example": "Sa nièce aime le pain.",
+      "exampleEn": "His niece likes bread.",
+      "icon": "twemoji/1f467.svg"
+    },
+    {
+      "id": "home-maison",
+      "topic": "home",
+      "article": "la",
+      "french": "maison",
+      "english": "house",
+      "example": "La maison est petite.",
+      "exampleEn": "The house is small.",
+      "icon": "twemoji/1f3e0.svg"
+    },
+    {
+      "id": "home-appartement",
+      "topic": "home",
+      "article": "l'",
+      "french": "appartement",
+      "english": "flat / apartment",
+      "example": "L'appartement est au centre.",
+      "exampleEn": "The flat is in the centre.",
+      "icon": "twemoji/1f3e2.svg"
+    },
+    {
+      "id": "home-chambre",
+      "topic": "home",
+      "article": "la",
+      "french": "chambre",
+      "english": "bedroom",
+      "example": "La chambre est en haut.",
+      "exampleEn": "The bedroom is upstairs.",
+      "icon": "twemoji/1f6cc.svg"
+    },
+    {
+      "id": "home-salon",
+      "topic": "home",
+      "article": "le",
+      "french": "salon",
+      "english": "living room",
+      "example": "Nous sommes dans le salon.",
+      "exampleEn": "We are in the living room.",
+      "icon": "twemoji/1f4fa.svg"
+    },
+    {
+      "id": "home-cuisine",
+      "topic": "home",
+      "article": "la",
+      "french": "cuisine",
+      "english": "kitchen",
+      "example": "Elle est dans la cuisine.",
+      "exampleEn": "She is in the kitchen.",
+      "icon": "twemoji/1f373.svg"
+    },
+    {
+      "id": "home-salle-de-bain",
+      "topic": "home",
+      "article": "la",
+      "french": "salle de bain",
+      "english": "bathroom",
+      "example": "La salle de bain est occupée.",
+      "exampleEn": "The bathroom is busy.",
+      "icon": "twemoji/1f6c1.svg"
+    },
+    {
+      "id": "home-toilettes",
+      "topic": "home",
+      "article": "les",
+      "french": "toilettes",
+      "english": "toilet",
+      "example": "Où sont les toilettes ?",
+      "exampleEn": "Where is the toilet?",
+      "icon": "twemoji/1f6bd.svg"
+    },
+    {
+      "id": "home-douche",
+      "topic": "home",
+      "article": "la",
+      "french": "douche",
+      "english": "shower",
+      "example": "Je prends une douche.",
+      "exampleEn": "I am taking a shower.",
+      "icon": "twemoji/1f6bf.svg"
+    },
+    {
+      "id": "home-jardin",
+      "topic": "home",
+      "article": "le",
+      "french": "jardin",
+      "english": "garden",
+      "example": "Le jardin est beau.",
+      "exampleEn": "The garden is beautiful.",
+      "icon": "twemoji/1f333.svg"
+    },
+    {
+      "id": "home-porte",
+      "topic": "home",
+      "article": "la",
+      "french": "porte",
+      "english": "door",
+      "example": "La porte est ouverte.",
+      "exampleEn": "The door is open.",
+      "icon": "twemoji/1f6aa.svg"
+    },
+    {
+      "id": "home-fenetre",
+      "topic": "home",
+      "article": "la",
+      "french": "fenêtre",
+      "english": "window",
+      "example": "Ouvre la fenêtre.",
+      "exampleEn": "Open the window.",
+      "icon": "twemoji/1fa9f.svg"
+    },
+    {
+      "id": "home-table",
+      "topic": "home",
+      "article": "la",
+      "french": "table",
+      "english": "table",
+      "example": "Le pain est sur la table.",
+      "exampleEn": "The bread is on the table.",
+      "icon": "custom/table.svg"
+    },
+    {
+      "id": "home-chaise",
+      "topic": "home",
+      "article": "la",
+      "french": "chaise",
+      "english": "chair",
+      "example": "Une chaise, s'il te plaît.",
+      "exampleEn": "A chair, please.",
+      "icon": "twemoji/1fa91.svg"
+    },
+    {
+      "id": "home-lit",
+      "topic": "home",
+      "article": "le",
+      "french": "lit",
+      "english": "bed",
+      "example": "Le lit est grand.",
+      "exampleEn": "The bed is big.",
+      "icon": "twemoji/1f6cf.svg"
+    },
+    {
+      "id": "home-canape",
+      "topic": "home",
+      "article": "le",
+      "french": "canapé",
+      "english": "sofa",
+      "example": "Il dort sur le canapé.",
+      "exampleEn": "He is sleeping on the sofa.",
+      "icon": "twemoji/1f6cb.svg"
+    },
+    {
+      "id": "home-lampe",
+      "topic": "home",
+      "article": "la",
+      "french": "lampe",
+      "english": "lamp",
+      "example": "La lampe est allumée.",
+      "exampleEn": "The lamp is on.",
+      "icon": "twemoji/1f4a1.svg"
+    },
+    {
+      "id": "home-cle",
+      "topic": "home",
+      "article": "la",
+      "french": "clé",
+      "english": "key",
+      "example": "Tu as la clé ?",
+      "exampleEn": "Do you have the key?",
+      "icon": "twemoji/1f511.svg"
+    },
+    {
+      "id": "home-escalier",
+      "topic": "home",
+      "article": "l'",
+      "french": "escalier",
+      "english": "stairs",
+      "example": "L'escalier est à droite.",
+      "exampleEn": "The stairs are on the right.",
+      "icon": "custom/stairs.svg"
+    },
+    {
+      "id": "home-balcon",
+      "topic": "home",
+      "article": "le",
+      "french": "balcon",
+      "english": "balcony",
+      "example": "On déjeune sur le balcon.",
+      "exampleEn": "We have lunch on the balcony.",
+      "icon": "custom/balcony.svg"
+    },
+    {
+      "id": "home-frigo",
+      "topic": "home",
+      "article": "le",
+      "french": "réfrigérateur",
+      "english": "fridge",
+      "example": "Le lait est dans le frigo.",
+      "exampleEn": "The milk is in the fridge.",
+      "icon": "custom/fridge.svg",
+      "note": "In the house, people usually say « le frigo »."
+    },
+    {
+      "id": "home-four",
+      "topic": "home",
+      "article": "le",
+      "french": "four",
+      "english": "oven",
+      "example": "Le gâteau est dans le four.",
+      "exampleEn": "The cake is in the oven.",
+      "icon": "custom/oven.svg"
+    },
+    {
+      "id": "home-evier",
+      "topic": "home",
+      "article": "l'",
+      "french": "évier",
+      "english": "sink",
+      "example": "Les verres sont dans l'évier.",
+      "exampleEn": "The glasses are in the sink.",
+      "icon": "custom/sink.svg"
+    },
+    {
+      "id": "food-eau",
+      "topic": "food",
+      "article": "l'",
+      "french": "eau",
+      "english": "water",
+      "example": "Je voudrais de l'eau.",
+      "exampleEn": "I would like some water.",
+      "icon": "twemoji/1f4a7.svg"
+    },
+    {
+      "id": "food-pain",
+      "topic": "food",
+      "article": "le",
+      "french": "pain",
+      "english": "bread",
+      "example": "Le pain est sur la table.",
+      "exampleEn": "The bread is on the table.",
+      "icon": "twemoji/1f35e.svg"
+    },
+    {
+      "id": "food-lait",
+      "topic": "food",
+      "article": "le",
+      "french": "lait",
+      "english": "milk",
+      "example": "Le bébé boit du lait.",
+      "exampleEn": "The baby drinks milk.",
+      "icon": "twemoji/1f95b.svg"
+    },
+    {
+      "id": "food-cafe",
+      "topic": "food",
+      "article": "le",
+      "french": "café",
+      "english": "coffee",
+      "example": "Un café, s'il te plaît.",
+      "exampleEn": "A coffee, please.",
+      "icon": "twemoji/2615.svg"
+    },
+    {
+      "id": "food-the",
+      "topic": "food",
+      "article": "le",
+      "french": "thé",
+      "english": "tea",
+      "example": "Tu veux un thé ?",
+      "exampleEn": "Do you want a tea?",
+      "icon": "twemoji/1f375.svg"
+    },
+    {
+      "id": "food-vin",
+      "topic": "food",
+      "article": "le",
+      "french": "vin",
+      "english": "wine",
+      "example": "Un verre de vin, s'il vous plaît.",
+      "exampleEn": "A glass of wine, please.",
+      "icon": "twemoji/1f377.svg"
+    },
+    {
+      "id": "food-fromage",
+      "topic": "food",
+      "article": "le",
+      "french": "fromage",
+      "english": "cheese",
+      "example": "J'aime le fromage.",
+      "exampleEn": "I like cheese.",
+      "icon": "twemoji/1f9c0.svg"
+    },
+    {
+      "id": "food-pomme",
+      "topic": "food",
+      "article": "la",
+      "french": "pomme",
+      "english": "apple",
+      "example": "Une pomme, s'il te plaît.",
+      "exampleEn": "An apple, please.",
+      "icon": "twemoji/1f34e.svg"
+    },
+    {
+      "id": "food-banane",
+      "topic": "food",
+      "article": "la",
+      "french": "banane",
+      "english": "banana",
+      "example": "La banane est pour le bébé.",
+      "exampleEn": "The banana is for the baby.",
+      "icon": "twemoji/1f34c.svg"
+    },
+    {
+      "id": "food-orange",
+      "topic": "food",
+      "article": "l'",
+      "french": "orange",
+      "english": "orange",
+      "example": "L'orange est sur la table.",
+      "exampleEn": "The orange is on the table.",
+      "icon": "twemoji/1f34a.svg"
+    },
+    {
+      "id": "food-oeuf",
+      "topic": "food",
+      "article": "l'",
+      "french": "œuf",
+      "english": "egg",
+      "example": "Deux œufs, s'il te plaît.",
+      "exampleEn": "Two eggs, please.",
+      "icon": "twemoji/1f95a.svg"
+    },
+    {
+      "id": "food-viande",
+      "topic": "food",
+      "article": "la",
+      "french": "viande",
+      "english": "meat",
+      "example": "Je ne mange pas de viande.",
+      "exampleEn": "I don't eat meat.",
+      "icon": "twemoji/1f356.svg"
+    },
+    {
+      "id": "food-poulet",
+      "topic": "food",
+      "article": "le",
+      "french": "poulet",
+      "english": "chicken",
+      "example": "Ce soir, c'est du poulet.",
+      "exampleEn": "Tonight it's chicken.",
+      "icon": "twemoji/1f357.svg"
+    },
+    {
+      "id": "food-poisson",
+      "topic": "food",
+      "article": "le",
+      "french": "poisson",
+      "english": "fish",
+      "example": "Le poisson est bon.",
+      "exampleEn": "The fish is good.",
+      "icon": "twemoji/1f41f.svg"
+    },
+    {
+      "id": "food-riz",
+      "topic": "food",
+      "article": "le",
+      "french": "riz",
+      "english": "rice",
+      "example": "Du riz, s'il te plaît.",
+      "exampleEn": "Some rice, please.",
+      "icon": "twemoji/1f35a.svg"
+    },
+    {
+      "id": "food-pates",
+      "topic": "food",
+      "article": "les",
+      "french": "pâtes",
+      "english": "pasta",
+      "example": "Les pâtes sont prêtes.",
+      "exampleEn": "The pasta is ready.",
+      "icon": "twemoji/1f35d.svg"
+    },
+    {
+      "id": "food-soupe",
+      "topic": "food",
+      "article": "la",
+      "french": "soupe",
+      "english": "soup",
+      "example": "La soupe est chaude.",
+      "exampleEn": "The soup is hot.",
+      "icon": "twemoji/1f372.svg"
+    },
+    {
+      "id": "food-salade",
+      "topic": "food",
+      "article": "la",
+      "french": "salade",
+      "english": "salad",
+      "example": "Une salade, s'il vous plaît.",
+      "exampleEn": "A salad, please.",
+      "icon": "twemoji/1f957.svg"
+    },
+    {
+      "id": "food-gateau",
+      "topic": "food",
+      "article": "le",
+      "french": "gâteau",
+      "english": "cake",
+      "example": "Le gâteau est délicieux.",
+      "exampleEn": "The cake is delicious.",
+      "icon": "twemoji/1f370.svg"
+    },
+    {
+      "id": "food-sucre",
+      "topic": "food",
+      "article": "le",
+      "french": "sucre",
+      "english": "sugar",
+      "example": "Du sucre dans le café ?",
+      "exampleEn": "Sugar in the coffee?",
+      "icon": "custom/sugar.svg"
+    },
+    {
+      "id": "food-sel",
+      "topic": "food",
+      "article": "le",
+      "french": "sel",
+      "english": "salt",
+      "example": "Tu passes le sel ?",
+      "exampleEn": "Can you pass the salt?",
+      "icon": "twemoji/1f9c2.svg"
+    },
+    {
+      "id": "food-beurre",
+      "topic": "food",
+      "article": "le",
+      "french": "beurre",
+      "english": "butter",
+      "example": "Du beurre sur le pain.",
+      "exampleEn": "Butter on the bread.",
+      "icon": "twemoji/1f9c8.svg"
+    },
+    {
+      "id": "food-petit-dejeuner",
+      "topic": "food",
+      "article": "le",
+      "french": "petit-déjeuner",
+      "english": "breakfast",
+      "example": "Le petit-déjeuner est prêt.",
+      "exampleEn": "Breakfast is ready.",
+      "icon": "twemoji/1f950.svg",
+      "note": "Breakfast, in France."
+    },
+    {
+      "id": "food-dejeuner",
+      "topic": "food",
+      "article": "le",
+      "french": "déjeuner",
+      "english": "lunch",
+      "example": "On déjeune à midi.",
+      "exampleEn": "We have lunch at noon.",
+      "icon": "twemoji/1f96a.svg",
+      "note": "Lunch, in France."
+    },
+    {
+      "id": "food-diner",
+      "topic": "food",
+      "article": "le",
+      "french": "dîner",
+      "english": "dinner",
+      "example": "Le dîner est à huit heures.",
+      "exampleEn": "Dinner is at eight.",
+      "icon": "twemoji/1f958.svg",
+      "note": "Dinner, in France."
+    },
+    {
+      "id": "food-repas",
+      "topic": "food",
+      "article": "le",
+      "french": "repas",
+      "english": "meal",
+      "example": "Le repas est sur la table.",
+      "exampleEn": "The meal is on the table.",
+      "icon": "twemoji/1f37d.svg"
+    },
+    {
+      "id": "food-faim",
+      "topic": "food",
+      "article": null,
+      "french": "J'ai faim",
+      "english": "I'm hungry",
+      "example": "J'ai faim.",
+      "exampleEn": "I'm hungry.",
+      "icon": "twemoji/1f924.svg"
+    },
+    {
+      "id": "food-soif",
+      "topic": "food",
+      "article": null,
+      "french": "J'ai soif",
+      "english": "I'm thirsty",
+      "example": "J'ai soif.",
+      "exampleEn": "I'm thirsty.",
+      "icon": "twemoji/1f964.svg"
+    },
+    {
+      "id": "food-delicieux",
+      "topic": "food",
+      "article": null,
+      "french": "C'est délicieux",
+      "english": "It's delicious",
+      "example": "C'est délicieux, merci.",
+      "exampleEn": "It's delicious, thank you.",
+      "icon": "twemoji/1f60b.svg"
+    },
+    {
+      "id": "food-addition",
+      "topic": "food",
+      "article": "l'",
+      "french": "addition",
+      "english": "the bill",
+      "example": "L'addition, s'il vous plaît.",
+      "exampleEn": "The bill, please.",
+      "icon": "twemoji/1f9fe.svg"
+    },
+    {
+      "id": "food-a-table",
+      "topic": "food",
+      "article": null,
+      "french": "À table",
+      "english": "Come and eat",
+      "example": "À table, le dîner est prêt.",
+      "exampleEn": "Come and eat, dinner is ready.",
+      "icon": "twemoji/1f374.svg"
+    },
+    {
+      "id": "num-un",
+      "topic": "numbers",
+      "article": null,
+      "french": "un",
+      "english": "one",
+      "example": "Un café, s'il vous plaît.",
+      "exampleEn": "One coffee, please.",
+      "icon": "custom/num-1.svg"
+    },
+    {
+      "id": "num-deux",
+      "topic": "numbers",
+      "article": null,
+      "french": "deux",
+      "english": "two",
+      "example": "Deux billets, s'il vous plaît.",
+      "exampleEn": "Two tickets, please.",
+      "icon": "custom/num-2.svg"
+    },
+    {
+      "id": "num-trois",
+      "topic": "numbers",
+      "article": null,
+      "french": "trois",
+      "english": "three",
+      "example": "Il est trois heures.",
+      "exampleEn": "It is three o'clock.",
+      "icon": "custom/num-3.svg"
+    },
+    {
+      "id": "num-quatre",
+      "topic": "numbers",
+      "article": null,
+      "french": "quatre",
+      "english": "four",
+      "example": "Nous sommes quatre.",
+      "exampleEn": "There are four of us.",
+      "icon": "custom/num-4.svg"
+    },
+    {
+      "id": "num-cinq",
+      "topic": "numbers",
+      "article": null,
+      "french": "cinq",
+      "english": "five",
+      "example": "Cinq minutes, s'il vous plaît.",
+      "exampleEn": "Five minutes, please.",
+      "icon": "custom/num-5.svg"
+    },
+    {
+      "id": "num-six",
+      "topic": "numbers",
+      "article": null,
+      "french": "six",
+      "english": "six",
+      "example": "Il est six heures.",
+      "exampleEn": "It is six o'clock.",
+      "icon": "custom/num-6.svg"
+    },
+    {
+      "id": "num-sept",
+      "topic": "numbers",
+      "article": null,
+      "french": "sept",
+      "english": "seven",
+      "example": "Sept jours.",
+      "exampleEn": "Seven days.",
+      "icon": "custom/num-7.svg"
+    },
+    {
+      "id": "num-huit",
+      "topic": "numbers",
+      "article": null,
+      "french": "huit",
+      "english": "eight",
+      "example": "Le dîner est à huit heures.",
+      "exampleEn": "Dinner is at eight.",
+      "icon": "custom/num-8.svg"
+    },
+    {
+      "id": "num-neuf",
+      "topic": "numbers",
+      "article": null,
+      "french": "neuf",
+      "english": "nine",
+      "example": "Il est neuf heures.",
+      "exampleEn": "It is nine o'clock.",
+      "icon": "custom/num-9.svg"
+    },
+    {
+      "id": "num-dix",
+      "topic": "numbers",
+      "article": null,
+      "french": "dix",
+      "english": "ten",
+      "example": "Dix minutes.",
+      "exampleEn": "Ten minutes.",
+      "icon": "custom/num-10.svg"
+    },
+    {
+      "id": "num-vingt",
+      "topic": "numbers",
+      "article": null,
+      "french": "vingt",
+      "english": "twenty",
+      "example": "Vingt minutes.",
+      "exampleEn": "Twenty minutes.",
+      "icon": "custom/num-20.svg"
+    },
+    {
+      "id": "num-cent",
+      "topic": "numbers",
+      "article": null,
+      "french": "cent",
+      "english": "a hundred",
+      "example": "Cent grammes de fromage.",
+      "exampleEn": "A hundred grams of cheese.",
+      "icon": "custom/num-100.svg"
+    },
+    {
+      "id": "day-lundi",
+      "topic": "days",
+      "article": null,
+      "french": "Lundi",
+      "english": "Monday",
+      "example": "Lundi, je travaille.",
+      "exampleEn": "On Monday, I work.",
+      "icon": "custom/day-lun.svg"
+    },
+    {
+      "id": "day-mardi",
+      "topic": "days",
+      "article": null,
+      "french": "Mardi",
+      "english": "Tuesday",
+      "example": "À mardi !",
+      "exampleEn": "See you on Tuesday!",
+      "icon": "custom/day-mar.svg"
+    },
+    {
+      "id": "day-mercredi",
+      "topic": "days",
+      "article": null,
+      "french": "Mercredi",
+      "english": "Wednesday",
+      "example": "On se voit mercredi.",
+      "exampleEn": "We see each other on Wednesday.",
+      "icon": "custom/day-mer.svg"
+    },
+    {
+      "id": "day-jeudi",
+      "topic": "days",
+      "article": null,
+      "french": "Jeudi",
+      "english": "Thursday",
+      "example": "Jeudi soir, on dîne ensemble.",
+      "exampleEn": "Thursday evening, we have dinner together.",
+      "icon": "custom/day-jeu.svg"
+    },
+    {
+      "id": "day-vendredi",
+      "topic": "days",
+      "article": null,
+      "french": "Vendredi",
+      "english": "Friday",
+      "example": "À vendredi.",
+      "exampleEn": "See you on Friday.",
+      "icon": "custom/day-ven.svg"
+    },
+    {
+      "id": "day-samedi",
+      "topic": "days",
+      "article": null,
+      "french": "Samedi",
+      "english": "Saturday",
+      "example": "Samedi, on reste à la maison.",
+      "exampleEn": "On Saturday, we stay home.",
+      "icon": "custom/day-sam.svg"
+    },
+    {
+      "id": "day-dimanche",
+      "topic": "days",
+      "article": null,
+      "french": "Dimanche",
+      "english": "Sunday",
+      "example": "Le déjeuner du dimanche.",
+      "exampleEn": "Sunday lunch.",
+      "icon": "custom/day-dim.svg"
+    },
+    {
+      "id": "time-aujourdhui",
+      "topic": "time",
+      "article": null,
+      "french": "Aujourd'hui",
+      "english": "today",
+      "example": "Aujourd'hui, on mange à la maison.",
+      "exampleEn": "Today, we eat at home.",
+      "icon": "twemoji/1f4c5.svg"
+    },
+    {
+      "id": "time-demain",
+      "topic": "time",
+      "article": null,
+      "french": "Demain",
+      "english": "tomorrow",
+      "example": "À demain !",
+      "exampleEn": "See you tomorrow!",
+      "icon": "twemoji/27a1.svg"
+    },
+    {
+      "id": "time-hier",
+      "topic": "time",
+      "article": null,
+      "french": "Hier",
+      "english": "yesterday",
+      "example": "Je suis arrivé hier.",
+      "exampleEn": "I arrived yesterday.",
+      "icon": "twemoji/2b05.svg"
+    },
+    {
+      "id": "time-matin",
+      "topic": "time",
+      "article": "le",
+      "french": "matin",
+      "english": "morning",
+      "example": "Le café du matin.",
+      "exampleEn": "The morning coffee.",
+      "icon": "twemoji/1f305.svg"
+    },
+    {
+      "id": "time-apres-midi",
+      "topic": "time",
+      "article": "l'",
+      "french": "après-midi",
+      "english": "afternoon",
+      "example": "Cet après-midi, je suis à la maison.",
+      "exampleEn": "This afternoon, I am at home.",
+      "icon": "twemoji/2600.svg"
+    },
+    {
+      "id": "time-soir",
+      "topic": "time",
+      "article": "le",
+      "french": "soir",
+      "english": "evening",
+      "example": "Le soir, on dîne ensemble.",
+      "exampleEn": "In the evening, we have dinner together.",
+      "icon": "twemoji/1f307.svg"
+    },
+    {
+      "id": "time-maintenant",
+      "topic": "time",
+      "article": null,
+      "french": "Maintenant",
+      "english": "now",
+      "example": "On y va maintenant ?",
+      "exampleEn": "Shall we go now?",
+      "icon": "twemoji/23f1.svg"
+    },
+    {
+      "id": "time-heure",
+      "topic": "time",
+      "article": null,
+      "french": "Quelle heure est-il ?",
+      "english": "What time is it?",
+      "example": "Quelle heure est-il ?",
+      "exampleEn": "What time is it?",
+      "icon": "twemoji/1f551.svg"
+    },
+    {
+      "id": "time-midi",
+      "topic": "time",
+      "article": null,
+      "french": "Il est midi",
+      "english": "It is noon",
+      "example": "On déjeune à midi.",
+      "exampleEn": "We have lunch at noon.",
+      "icon": "twemoji/1f55b.svg"
+    },
+    {
+      "id": "time-semaine",
+      "topic": "time",
+      "article": "la",
+      "french": "semaine",
+      "english": "week",
+      "example": "La semaine prochaine.",
+      "exampleEn": "Next week.",
+      "icon": "twemoji/1f4c6.svg"
+    },
+    {
+      "id": "time-weekend",
+      "topic": "time",
+      "article": "le",
+      "french": "week-end",
+      "english": "weekend",
+      "example": "Ce week-end, on reste à la maison.",
+      "exampleEn": "This weekend, we stay home.",
+      "icon": "twemoji/1f3d6.svg"
+    },
+    {
+      "id": "time-mois",
+      "topic": "time",
+      "article": "le",
+      "french": "mois",
+      "english": "month",
+      "example": "Ce mois-ci.",
+      "exampleEn": "This month.",
+      "icon": "twemoji/1f5d3.svg"
+    },
+    {
+      "id": "time-annee",
+      "topic": "time",
+      "article": "l'",
+      "french": "année",
+      "english": "year",
+      "example": "L'année prochaine.",
+      "exampleEn": "Next year.",
+      "icon": "twemoji/1f386.svg"
+    },
+    {
+      "id": "verb-etre",
+      "topic": "verbs",
+      "article": null,
+      "french": "être",
+      "english": "to be",
+      "example": "Je suis à la maison.",
+      "exampleEn": "I am at home.",
+      "icon": "twemoji/1f464.svg"
+    },
+    {
+      "id": "verb-avoir",
+      "topic": "verbs",
+      "article": null,
+      "french": "avoir",
+      "english": "to have",
+      "example": "Tu as la clé ?",
+      "exampleEn": "Do you have the key?",
+      "icon": "twemoji/1f4e6.svg"
+    },
+    {
+      "id": "verb-aller",
+      "topic": "verbs",
+      "article": null,
+      "french": "aller",
+      "english": "to go",
+      "example": "Je vais à la cuisine.",
+      "exampleEn": "I am going to the kitchen.",
+      "icon": "twemoji/1f6b6.svg"
+    },
+    {
+      "id": "verb-faire",
+      "topic": "verbs",
+      "article": null,
+      "french": "faire",
+      "english": "to do / to make",
+      "example": "Je fais la cuisine.",
+      "exampleEn": "I am cooking.",
+      "icon": "twemoji/1f528.svg"
+    },
+    {
+      "id": "verb-vouloir",
+      "topic": "verbs",
+      "article": null,
+      "french": "vouloir",
+      "english": "to want",
+      "example": "Je veux un café.",
+      "exampleEn": "I want a coffee.",
+      "icon": "twemoji/1f4ad.svg"
+    },
+    {
+      "id": "verb-pouvoir",
+      "topic": "verbs",
+      "article": null,
+      "french": "pouvoir",
+      "english": "to be able to",
+      "example": "Je peux aider.",
+      "exampleEn": "I can help.",
+      "icon": "twemoji/1f4aa.svg"
+    },
+    {
+      "id": "verb-aimer",
+      "topic": "verbs",
+      "article": null,
+      "french": "aimer",
+      "english": "to like / to love",
+      "example": "J'aime le fromage.",
+      "exampleEn": "I like cheese.",
+      "icon": "twemoji/2764.svg"
+    },
+    {
+      "id": "verb-manger",
+      "topic": "verbs",
+      "article": null,
+      "french": "manger",
+      "english": "to eat",
+      "example": "On mange à midi.",
+      "exampleEn": "We eat at noon.",
+      "icon": "twemoji/1f37d.svg"
+    },
+    {
+      "id": "verb-boire",
+      "topic": "verbs",
+      "article": null,
+      "french": "boire",
+      "english": "to drink",
+      "example": "Je bois de l'eau.",
+      "exampleEn": "I drink water.",
+      "icon": "twemoji/1f964.svg"
+    },
+    {
+      "id": "verb-parler",
+      "topic": "verbs",
+      "article": null,
+      "french": "parler",
+      "english": "to speak",
+      "example": "Tu parles français ?",
+      "exampleEn": "Do you speak French?",
+      "icon": "twemoji/1f5e3.svg"
+    },
+    {
+      "id": "verb-comprendre",
+      "topic": "verbs",
+      "article": null,
+      "french": "comprendre",
+      "english": "to understand",
+      "example": "Tu comprends ?",
+      "exampleEn": "Do you understand?",
+      "icon": "twemoji/1f9e0.svg"
+    },
+    {
+      "id": "verb-habiter",
+      "topic": "verbs",
+      "article": null,
+      "french": "habiter",
+      "english": "to live",
+      "example": "Nous habitons ici.",
+      "exampleEn": "We live here.",
+      "icon": "twemoji/1f3e1.svg"
+    },
+    {
+      "id": "verb-ecouter",
+      "topic": "verbs",
+      "article": null,
+      "french": "écouter",
+      "english": "to listen",
+      "example": "J'écoute.",
+      "exampleEn": "I'm listening.",
+      "icon": "twemoji/1f442.svg"
+    },
+    {
+      "id": "verb-dormir",
+      "topic": "verbs",
+      "article": null,
+      "french": "dormir",
+      "english": "to sleep",
+      "example": "Le bébé dort.",
+      "exampleEn": "The baby is sleeping.",
+      "icon": "twemoji/1f634.svg"
+    },
+    {
+      "id": "verb-travailler",
+      "topic": "verbs",
+      "article": null,
+      "french": "travailler",
+      "english": "to work",
+      "example": "Je travaille demain.",
+      "exampleEn": "I work tomorrow.",
+      "icon": "twemoji/1f4bc.svg"
+    },
+    {
+      "id": "phrase-je-taime",
+      "topic": "phrases",
+      "article": null,
+      "french": "Je t'aime",
+      "english": "I love you",
+      "example": "Je t'aime.",
+      "exampleEn": "I love you.",
+      "icon": "twemoji/1f491.svg"
+    },
+    {
+      "id": "phrase-ou-est",
+      "topic": "phrases",
+      "article": null,
+      "french": "Où est… ?",
+      "english": "Where is…?",
+      "example": "Où est la clé ?",
+      "exampleEn": "Where is the key?",
+      "icon": "twemoji/1f4cd.svg"
+    },
+    {
+      "id": "phrase-toilettes",
+      "topic": "phrases",
+      "article": null,
+      "french": "Où sont les toilettes ?",
+      "english": "Where is the toilet?",
+      "example": "Où sont les toilettes ?",
+      "exampleEn": "Where is the toilet?",
+      "icon": "twemoji/1f6bd.svg"
+    },
+    {
+      "id": "phrase-combien",
+      "topic": "phrases",
+      "article": null,
+      "french": "Combien ça coûte ?",
+      "english": "How much does it cost?",
+      "example": "Combien ça coûte, s'il vous plaît ?",
+      "exampleEn": "How much does it cost, please?",
+      "icon": "twemoji/1f4b6.svg"
+    },
+    {
+      "id": "phrase-voudrais",
+      "topic": "phrases",
+      "article": null,
+      "french": "Je voudrais…",
+      "english": "I would like…",
+      "example": "Je voudrais un café, s'il vous plaît.",
+      "exampleEn": "I would like a coffee, please.",
+      "icon": "twemoji/1f6d2.svg"
+    },
+    {
+      "id": "phrase-cest-bon",
+      "topic": "phrases",
+      "article": null,
+      "french": "C'est bon",
+      "english": "That's good / it tastes good",
+      "example": "C'est bon, merci.",
+      "exampleEn": "That's good, thank you.",
+      "icon": "twemoji/1f44c.svg"
+    },
+    {
+      "id": "phrase-on-y-va",
+      "topic": "phrases",
+      "article": null,
+      "french": "On y va",
+      "english": "Let's go",
+      "example": "On y va ?",
+      "exampleEn": "Shall we go?",
+      "icon": "twemoji/1f3c3.svg"
+    },
+    {
+      "id": "phrase-je-rentre",
+      "topic": "phrases",
+      "article": null,
+      "french": "Je rentre à la maison",
+      "english": "I'm coming home",
+      "example": "Je rentre à la maison.",
+      "exampleEn": "I'm coming home.",
+      "icon": "twemoji/1f3e1.svg"
+    },
+    {
+      "id": "phrase-fatigue",
+      "topic": "phrases",
+      "article": null,
+      "french": "Je suis fatigué",
+      "english": "I am tired",
+      "example": "Je suis fatigué.",
+      "exampleEn": "I am tired.",
+      "icon": "twemoji/1f62b.svg",
+      "note": "Said by a man. A woman says « je suis fatiguée »."
+    },
+    {
+      "id": "phrase-anniversaire",
+      "topic": "phrases",
+      "article": null,
+      "french": "Joyeux anniversaire",
+      "english": "Happy birthday",
+      "example": "Joyeux anniversaire !",
+      "exampleEn": "Happy birthday!",
+      "icon": "twemoji/1f382.svg"
+    }
+  ]
+}
