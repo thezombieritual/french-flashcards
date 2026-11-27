@@ -5,3 +5,7 @@ dist
 .vite
 playwright-report
 test-results
+
+# Plaintext menu for the private home page. Commit only the encrypted page.
+home/links.json
+public/home/index.html.tmp
