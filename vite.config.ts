@@ -36,8 +36,10 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,webmanifest,txt,woff2}'],
+        // public/home is a separate page. Don't precache it or serve the French app there.
+        globIgnores: ['**/node_modules/**/*', '**/home/**'],
         navigateFallback: 'index.html',
-        navigateFallbackDenylist: [/^\/api\//],
+        navigateFallbackDenylist: [/^\/api\//, /\/home(?:\/|$|\?)/],
       },
       devOptions: { enabled: false },
     }),

@@ -1,0 +1,5 @@
+# The study app stays available to crawlers.
+# The private menu under /home/ is not.
+User-agent: *
+Disallow: /french-flashcards/home/
+Disallow: /home/
